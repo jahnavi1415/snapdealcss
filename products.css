@@ -1,0 +1,91 @@
+body
+{
+		
+		 background-color: #364f6b;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: 100% 100%;
+		color: lightgoldenrodyellow;
+		
+}
+h1{
+	font-style: normal;
+	text-shadow: 5px 2px 4px gold;
+}
+.nav
+{
+	 background-color:#3FC1C9; 
+
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+  border-radius: 30px;
+   text-decoration: none;
+}
+
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding:  20px 20px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+
+  
+}
+#style {
+  font-family:sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border-style: outset;
+}
+#style td 
+{
+	color: black;
+	font-weight: 100;
+	background-color: #F6F7D7;
+}
+#style td, #style th {
+  border: 2px solid grey;
+  padding: 8px;
+   background-color: lightgrey;
+  margin: 20px;
+}
+
+#style th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  color:white ;
+  background-color: #6abadeba;
+}
+h3{
+	display: inline-block;
+	background-color: white;
+	color:black ;
+	border-radius: 7px;
+}
+a.href:link
+{
+	background-color: red;
+	border-radius: 5px;
+
+}
+a.href:visited
+{
+	color: black;
+
+}
+img{
+	border-radius: 50px;
+
+}
+a.sep:link{color: white; text-decoration: none; padding: 20px 50px;}
+a.sep:visited{color:white;}
+a.sep:hover{color: black;text-decoration: underline; background-color:lightgoldenrodyellow;}
+a:link{ text-decoration: none;}
+a:visited{color:darkblue;}
+a:hover{color: black;text-decoration: underline;}

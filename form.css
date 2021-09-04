@@ -1,0 +1,116 @@
+body
+{
+		margin: 0;  
+        padding: 0;
+		 background-color: #23463f;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: 100% 100%;
+		color: lightgoldenrodyellow;
+		
+}
+h2{ 
+	 width: 390px; 
+        color: white;  
+        padding: 20px;  
+        background-color: rgb(58,112,116);
+        text-align: center;
+        margin: auto;
+        margin: 20 0 0 140px;
+        border-radius: 20px;
+        text-shadow: 5px 2px 4px gold;
+
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+padding: 0;
+  width: 320px;
+  background-color:rgb(129,71,137);
+  float: left;
+  text-align: center;
+  border-radius: 30px;
+}
+
+.nav li  {
+  display: block;
+   color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding:  20px 20px;
+  width: 300px;
+}
+.proform{  
+            width: 390px; 
+          
+          
+            margin: 20 0 0 450px;  
+            padding: 85px;  
+              margin: auto;
+            background: rgb(55,129,47);  
+            border-radius: 30px ;  
+              
+    } 
+
+label{  
+        color:gold;  
+        font-size: 18px;  
+    } 
+
+  #name{  
+        width: 250px;  
+        height: 30px;  
+        border: none;  
+        border-radius: 5px;  
+        padding-left: 8px;  
+    } 
+    #Address{
+    	width: 250px;  
+         
+        border: none;  
+        border-radius: 4px;  
+        padding-left: 8px; 
+
+    } 
+    #Age{
+    	border: none;  
+        border-radius: 4px; 
+ padding-left: 8px; 
+    }
+    #color{    
+        height: 30px;  
+        border: none;  
+        border-radius: 4px;  
+        padding-left: 8px;  
+          
+    }  
+    #date{  
+        width: 250px;  
+        height: 30px;  
+        border: none;  
+        border-radius: 18px;  
+        padding-left: 7px;    
+      }
+      #time{  
+        width: 250px;  
+        height: 30px;  
+        border: none;  
+        border-radius: 18px;  
+        padding-left: 7px;  
+  
+      }
+      #submit{      
+        height: 30px;  
+        border: none;  
+        border-radius: 20px;  
+      }
+      #reset{    
+        height: 30px;  
+        border: none;  
+        border-radius: 20px;  
+  
+      }
+a:link{ color: white; text-decoration: none;padding: 30px 50px;border-radius: 30px;}
+a:visited{color:white;}
+a:hover{color: black;text-decoration: underline;background-color:lightgoldenrodyellow;}

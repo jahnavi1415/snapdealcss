@@ -1,0 +1,62 @@
+body
+{
+		background-image:url('bgimage3.ipg.jpg');
+		/*background-color:black;*/
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: 100% 100%;
+		
+}
+.about{
+	color: ghostwhite;
+	
+	font-size: medium;
+	font-style: oblique;
+
+}
+.products
+{
+	color: lightyellow;
+	font-size: medium;
+	font-style: italic;
+}
+.nav
+{
+	 background-color:red; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border-radius: 30px;
+   text-decoration: none;
+}
+
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding:  20px 20px;
+  text-decoration: none;
+  color: white;
+
+  
+}
+ol.square{
+	list-style-type: upper-alpha;
+	
+}
+
+h1
+{
+	color: ivory;
+	text-shadow: 5px 2px 4px red;
+}
+.side
+{
+	color: white;
+	text-shadow: 5px 2px 4px red;
+
+}
+a:link{color: white; text-decoration: none; padding: 20px 50px;}
+a:visited{color:white;}
+a:hover{color: black;text-decoration: underline; background-color:lightgoldenrodyellow;}
