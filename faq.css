@@ -65,10 +65,15 @@ p{
 
 }
 a.list:link{
-	color: white; text-decoration: none; padding: 20px 50px;border-radius: 20px;}
-a.list:visited{color:white; background-color: seagreen;}
+	color: white; text-decoration: none; padding: 20px 50px;border-radius: 20px;
+}
+a.list:hover{
+color:black;
+background-color:#22994f;}
+
 	a:link{color: white; text-decoration: none; padding: 20px 50px;border-radius: 20px;}
 
 
 a:visited{color:white;}
 a:hover{color: black;text-decoration: underline; background-color:lightgoldenrodyellow;}
+
